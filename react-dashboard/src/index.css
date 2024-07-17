@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.main  .side-wrapper{
+  height: 100vh;
+}
+
+.main  .side-wrapper .sidebar{
+  height: 100vh;
+  background: #fff;
+}
